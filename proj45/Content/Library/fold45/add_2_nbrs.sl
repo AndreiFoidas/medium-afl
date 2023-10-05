@@ -1,4 +1,4 @@
-anamespace: fold45
+namespace: fold45
 operation:
   name: add_2_nbrs
   inputs:
