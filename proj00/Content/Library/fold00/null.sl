@@ -3,7 +3,7 @@ flow:
   name: 'null'
   workflow:
     - wiki00:
-        do:
+        do:a
           fold00.wiki00: []
         navigate:
           - SUCCESS: SUCCESS

@@ -1,4 +1,4 @@
-namespace: fold37
+anamespace: fold37
 operation:
   name: add_2_nbrs_v2
   inputs:
