@@ -1,4 +1,4 @@
-namespace: fold31
+anamespace: fold31
 operation:
   name: wiki02
   sequential_action:
