@@ -2,7 +2,7 @@ namespace: fold00
 operation:
   name: add_2_nbrs
   inputs:
-    - in1
+    - in1a
     - in2
   python_action:
     use_jython: false
