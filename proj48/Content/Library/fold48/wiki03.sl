@@ -1,4 +1,4 @@
-anamespace: fold48
+namespace: fold48
 operation:
   name: wiki03
   sequential_action:
