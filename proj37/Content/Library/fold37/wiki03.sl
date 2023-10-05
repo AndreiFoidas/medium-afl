@@ -1,4 +1,4 @@
-anamespace: fold37
+namespace: fold37
 operation:
   name: wiki03
   sequential_action:
