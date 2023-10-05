@@ -1,4 +1,4 @@
-namespace: fold35
+anamespace: fold35
 operation:
   name: wiki05
   sequential_action:
