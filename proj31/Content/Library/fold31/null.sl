@@ -1,4 +1,4 @@
-anamespace: fold31
+namespace: fold31
 flow:
   name: 'null'
   workflow:
