@@ -1,4 +1,4 @@
-anamespace: fold32
+namespace: fold32
 operation:
   name: wiki06
   sequential_action:
