@@ -1,4 +1,4 @@
-namespace: fold32
+anamespace: fold32
 operation:
   name: add_2_nbrs_v2
   inputs:
