@@ -1,4 +1,4 @@
-anamespace: fold02
+namespace: fold02
 operation:
   name: wiki04
   sequential_action:
