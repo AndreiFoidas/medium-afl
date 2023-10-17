@@ -28,5 +28,5 @@ extensions:
     results:
       SUCCESS:
         36de18b0-839d-c534-75db-007949fd4ad3:
-          x: 360
-          'y': 160
+          x: 520
+          'y': 200
